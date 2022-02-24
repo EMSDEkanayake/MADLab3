@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Temperature Calculator</string>
+    <string name="Temp1">Celcius</string>
+    <string name="Temp2">Fahrenhite</string>
+    <string name="Btn">CALCULATE</string>
+    <string name="input">Value</string>
+    <string name="rd_btn_C">Celcius</string>
+    <string name="rd_btn_F">Fahrenheit</string>
+    <string name="btn_Calculate">CALCULATE</string>
+    <string name="Output">Output</string>
+</resources>
